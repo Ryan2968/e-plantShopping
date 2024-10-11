@@ -5,25 +5,26 @@ function AboutUs() {
   return (
     <div className="about-us-container">
       {/* <h1 className="about-us-heading">About Us</h1> */}
-      <p className="about-us-description">Welcome to Paradise Nursery, where green meets serenity!</p>
+      <p className="about-us-description">Welcome to Cixiidae's Botanical Abode, Where nature thrives and beauty blooms.</p>
       <p className="about-us-content">
-        At Paradise Nursery, we are passionate about bringing nature closer to you. Our mission is to provide a wide range of 
-        high-quality plants that not only enhance the beauty of your surroundings but also contribute to a healthier and 
-        more sustainable lifestyle. From air-purifying plants to aromatic fragrant ones, we have something for every 
-        plant enthusiast.
+      Cixiidae's Botanical Abode is dedicated to nurturing your connection with nature. Our mission is to offer a diverse
+       selection of premium plants that not only elevate the aesthetics of your space but also promote a healthier, 
+       more sustainable way of life. Whether you're seeking air-purifying greenery or fragrant botanicals, we have the 
+       perfect plant to enhance your well-being and enrich your surroundings.
       </p>
       {/* <p className="plant_logo_left"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
       <p className="about-us-content">
-        Our team of experts is dedicated to ensuring that each plant meets our strict standards of quality and care. 
-        Whether you're a seasoned gardener or just starting your green journey, we're here to support you every step of 
-        the way. Feel free to explore our collection, ask questions, and let us help you find the perfect plant for your 
-        home or office.
+        Our team is committed to providing exceptional quality and care for every plant we offer. Our experienced team
+         ensures that each botanical gem meets our rigorous standards, ensuring a thriving and healthy addition to your 
+         space. Whether you're a seasoned gardener or just beginning your green adventure, we're here to guide you every 
+         step of the way. Explore our collection, ask questions, and let us assist you in selecting the ideal plant to 
+         enhance your home or office environment.
       </p>
       {/* <p className="plant_logo_right"><img src="https://p1.hiclipart.com/preview/922/979/640/green-leaf-logo-emoji-seedling-emoticon-sticker-plant-plant-stem-flower-png-clipart-thumbnail.jpg" height='50px' width='50px' alt="" /></p> */}
 
       <p className="about-us-content">
-        Join us in our mission to create a greener, healthier world. Visit Paradise Nursery today and experience the 
-        beauty of nature right at your doorstep.
+       We invite you to join us in creating a greener, healthier world. Discover the beauty of nature right at your 
+       doorstep by visiting our nursery today.
       </p>
     </div>
   );
